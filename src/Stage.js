@@ -1,5 +1,4 @@
 import React from 'react';
-import participants from './Participants';
 
 //name & avatar & onStage
 

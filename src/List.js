@@ -1,5 +1,4 @@
 import React from 'react';
-import participants from './Participants';
 
 const List = function (props) {
     return (
