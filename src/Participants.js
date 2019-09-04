@@ -37,5 +37,7 @@ const participants = [
             'https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1',
         inSession: true,
         onStage: true
-    }
+    },
 ];
+
+export default participants;
